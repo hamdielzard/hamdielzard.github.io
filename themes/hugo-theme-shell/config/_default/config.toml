@@ -63,7 +63,7 @@ ignoreErrors = ["error-remote-getjson"]
 
   [Params.Tree]
   use = true
-  folderName = "my_activity"
+  folderName = "my_resume"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["Resume", "posts/resume.md"]
