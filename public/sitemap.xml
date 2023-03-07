@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hamdielzard.github.io/categories/</loc>
-  </url><url>
     <loc>https://hamdielzard.github.io/</loc>
+    <lastmod>2023-03-04T20:41:19-06:00</lastmod>
+  </url><url>
+    <loc>https://hamdielzard.github.io/posts/resume/</loc>
+    <lastmod>2023-03-04T20:41:19-06:00</lastmod>
+  </url><url>
+    <loc>https://hamdielzard.github.io/posts/</loc>
+    <lastmod>2023-03-04T20:41:19-06:00</lastmod>
+  </url><url>
+    <loc>https://hamdielzard.github.io/categories/</loc>
   </url><url>
     <loc>https://hamdielzard.github.io/tags/</loc>
   </url>

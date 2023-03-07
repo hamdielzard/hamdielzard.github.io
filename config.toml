@@ -1,4 +1,7 @@
 baseURL = 'https://hamdielzard.github.io/'
 languageCode = 'en-us'
 title = 'Hamdi Elzard'
-theme='PaperMod'
+theme='hugo-theme-shell'
+
+[markup.goldmark.renderer]
+unsafe=true
