@@ -1,4 +1,4 @@
-baseURL = "https://www.example.com/"
+baseURL = "https://hamdielzard.github.io/"
 title = "Shell"
 # author = "Yukuro"
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
@@ -7,13 +7,13 @@ ignoreErrors = ["error-remote-getjson"]
 
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
-  description = "Jane Doe's Portfolio!"
+  description = "Hamdi Elzard's Website"
   [Params.Terminal]
   # Note: color schema
   # Note: You can choose between
   # Note: ["monokai", "powershell", "gruvbox_light", "gruvbox_dark", "solarized_light", "solarized_dark", "ubuntu", "retro"]
   # Note: If you want to use the Goph theme, set it to "goph" (See README.md)
-  schema = "monokai"
+  schema = "ubuntu"
 
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
@@ -26,9 +26,9 @@ ignoreErrors = ["error-remote-getjson"]
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "jane"
-  pcName = "laptop"
-  workDir = "mydir"
+  userName = "hamdi"
+  pcName = "macbook"
+  workDir = "my_profile"
   profile = "profile.txt"
 
   # Note: speed at which text is displayed on the terminal
@@ -53,8 +53,7 @@ ignoreErrors = ["error-remote-getjson"]
   # activityDelay = 5 : deprecated
 
   description = """
-  Hi I am Jane Doe!
-  Nice to meet you!
+  Hi I am Hamdi Elzard! 👋🏻
   
   """
 
@@ -67,11 +66,7 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["C/C++", "https://www.example.com/"],
-    ["Python", "https://www.example.com/"],
-    ["Go", "https://golang.org/"],
-    ["Hugo", "/post/some-activity.md"],
-    ["Docker", "/post/some-activity.md"],
+    ["Resume", "posts/resume.md"]
   ]
 
 [module]
