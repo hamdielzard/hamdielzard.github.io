@@ -1,25 +1,24 @@
-## Hamdi Elzard's Resume
-Winnipeg, MB - 
-*Full-Time Student at the University of Manitoba*
+# Hamdi Elzard's Resume
+Winnipeg, MB - *Full-Time Student at the University of Manitoba*
 
 [go_back();](../..) [contact_email();](mailto:elzardh@myumanitoba.ca) [github();](https://github.com/hamdielzard) [linkedin();](https://linkedin.com/in/hamdielzard)
 
 ### Education
-* <span style="color: green">BSc in Computer Science</span>
+* BSc in Computer Science
     * University of Manitoba
     * 4th year
         * *Winnipeg, MB*
-* <span style="color: green">High School Degree</span>
+* High School Degree
     * American Academy School
         * *Doha, Qatar*
 
 ### Experience
-* <span style="color: green">Market Research Interviewer</span>
+* **Market Research Interviewer**
     * **Elemental Data Inc.**
     * *Winnipeg, MB*
     * Mar 2022 → Sept 2022
         * Contact potential participants via phone and conduct market research interviews according to project requirements
-* <span style="color: green">Customer Service Representative</span>
+* **Customer Service Representative**
     * **Commercial Bank of Qatar**
     * *Winnipeg, MB*
     * May 2016 → Sept 2016
