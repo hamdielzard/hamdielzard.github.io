@@ -1,4 +1,9 @@
+> [!WARNING]
+> This website, resume, and instructions are no longer updated. These were built for a computer science class on Technical Communication.
+
 <div align=center>
+   
+----
 
 # Hosting a (Cool!) Resume with Hugo on GitHub Pages
 This guide was done on macOS, but steps on other operating systems will vary when it comes to installation.
